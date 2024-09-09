@@ -1,0 +1,44 @@
+[
+    {
+      "id": "aege",
+      "name": "Aegean",
+      "temperment": "affectionate, social",
+      "origin": "Greece",
+      "description": "Native to Greek Islands."
+    },
+    {
+        "id": "siam",
+        "name": "Siamese",
+        "temperment": "intelligent, playful",
+        "origin": "Persia",
+        "description": "Native to Persia."
+      },
+      {
+        "id": "brit",
+        "name": "British Shorthair",
+        "temperment": "social, intelligent",
+        "origin": "Britain",
+        "description": "Native to UK."
+      },
+      {
+        "id": "burm",
+        "name": "Burmese",
+        "temperment": "affectionate, playful",
+        "origin": "Burma",
+        "description": "Native to Burma."
+      },
+      {
+        "id": "amer",
+        "name": "American Shorthair",
+        "temperment": "playful, active",
+        "origin": "USA",
+        "description": "Native to USA."
+      },
+      {
+        "id": "scot",
+        "name": "Scottish Fold",
+        "temperment": "affectionate, intelligent",
+        "origin": "Scotland",
+        "description": "Native to Scotland."
+      }
+  ]
